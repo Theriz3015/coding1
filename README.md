@@ -13,3 +13,5 @@ console.log("Entre em contato 818457-9764");
   window.alert("Atendimento Cancelado")
   console.log("Atendimento Cancelado")
 }
+// usando if e else if
+//
