@@ -1,3 +1,7 @@
+
+## usando else/else if para tomar decisões
+
+```.js
 let decisao = prompt("Escolha: 1 para Consulta ,2 para entrar em contato ,3 para Cancelar")
 
 
@@ -73,4 +77,4 @@ break;
     console.log(" Não foi possível realizar a pesquisa");
       window.alert("Não foi possível realizar a pesquisa")
       }
-
+```
