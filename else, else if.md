@@ -1,5 +1,5 @@
 
-## usando else/else if para tomar decisões
+## usando else/else if e switch case para tomar decisões
 
 ```.js
 let decisao = prompt("Escolha: 1 para Consulta ,2 para entrar em contato ,3 para Cancelar")
