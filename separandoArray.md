@@ -1,4 +1,4 @@
-## concatenando array
+## separando array
 ```.js
 const livros = ["Javascript Assertivo", "Engenharia de Testes", "Clean code", "Scrum", "Guia HTML5 e CSS3", "MongoDB"]
 
