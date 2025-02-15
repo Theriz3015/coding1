@@ -7,9 +7,9 @@ let idade = prompt("Qual é a sua idade?");
 
 console.log(`Olá meu nome é ${nome} e tenho ${idade} anos`)
 
-/* use /* para transformar em comentário
-*/
+ use // e \\ para transformar em comentário
 
+// criamos prompts que perguntam oque é sugerido no prompt das variaveis \\
 let cidade = prompt("em qual cidade você mora?")
 
 let nomeDousuario = prompt("Qual seu nome?")
